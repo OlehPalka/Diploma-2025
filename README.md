@@ -3,7 +3,7 @@ Diploma Project
 Data
 Due to the company's policy on sensitive user data (name, surname, phone number, address, etc.), datasets and Tableau dashboards are not provided here. If there is a need to get initial data from Matomo, pre-processed data tables from Tableau, or results of algorithms execution, You can reach me, Oleh Palka oleh.palka@ucu.edu.ua or Lidia Bedrijchuck at lida.bedriychuk@kormotech.com.ua (data analyst from the Kormotech team).
 
-Code explanation
+**Code explanation**
 **db_creation.py**  
 File to set up local MySQL DB to extract initial data from Matomo.
 
